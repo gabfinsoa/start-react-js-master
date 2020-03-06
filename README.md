@@ -1,1 +1,2 @@
-# start-react-js-master
+# start-react-js
+Simple application ReactJS.
